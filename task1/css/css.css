@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.main{
+	background-color: black;
+	width: 50%;
+	margin: 0 auto;
+}
+ .main div {
+            width: 31.3%;
+            padding-bottom: 33.3%;
+            background-color: orange;
+            border-radius: 3%;
+            float: left;
+            margin: 1%;
+        }
